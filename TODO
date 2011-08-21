@@ -1,0 +1,8 @@
+
+Modification to be made in the future:
+
+- Get 'last.call' working. So that the Syntax can appear as:
+  a <- setPragma( fun ) instead of setPragma( name, fun ) 
+
+- investigate ]<- function for using 
+

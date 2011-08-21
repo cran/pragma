@@ -1,0 +1,10 @@
+e4846dc2fa3400dbc599f4b86dc1b743 *DESCRIPTION
+46b11aa21faa2ea81ba47eda491b5b6f *LICENSE
+6cea2c4c508dcc5c1ae2c44f7fc64b6c *NAMESPACE
+ce8b08dffc80522596ad33a395fa9f65 *NEWS
+2ec125c666f8da13172e2cdc6def931a *R/setPragma.R
+9c880953f042b5265c10ee9824b38607 *TODO
+a7f7f1641f072ad982fb7b02566e68fc *dev/setPragma.R
+09a7d53e56ecd78aaed8e5f5a01090b8 *man/pragma.package.Rd
+63d13ac726af89f98bd944f1873c2386 *man/setPragma.Rd
+783e369be1ebd3b40dca0124dbf2a294 *tests/test.R

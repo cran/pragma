@@ -1,0 +1,7 @@
+Version 0.1.3 
+
+Noticed that 'last.call' does not work in BATCH mode including Rscript.
+So setPragma's signature has changed to setPragma( name, function ). 
+
+
+
